@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = aspnet_core_dotnet_core
+build_property.ProjectDir = d:\Workspace\Docker-Image-ACR-GitHub-Action-main\Docker-Image-ACR-GitHub-Action-main\aspnet-core-dotnet-core\
